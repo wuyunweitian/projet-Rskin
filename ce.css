@@ -1,0 +1,55 @@
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 5rem;
+    padding-left: 5.5rem;
+} 
+
+.dropdown-header {
+    font-size: 25px;
+    color: #a5bb42;
+}
+
+.card-img {
+    height: 350px;
+}
+
+ body {
+text-align: center
+}
+.card-button {
+    background-color: #a5bb42;
+    color: white;
+    border-color: white;
+ }     
+
+.card-button:hover {
+    background-color: #bbcf62;
+    border-color: white;
+}
+
+.card {
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+
+.btn-menu {
+    color: #a5bb42
+}
+.my-0 {
+    color: #a5bb42;
+}
+
+.values {
+    color: white;
+    background-color:#d1b48c;
+    padding: 70px 0;
+    margin: 70px 0;
+    border-top: solid 1px #eee;   
+    border-bottom: solid 1px #eee;   
+}
+
+.footer {
+    color: white;
+    padding: 75px 0 !important;
+    margin: 75px 0 !important;
+    border-top: solid 1px #eee;   
+   
+}
